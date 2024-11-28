@@ -27,11 +27,11 @@ pip install numpy scikit-fuzzy
 ```
 ## Getting Started
 1. **clone to the repository:**
-2. ```bash
-    git clone https://github.com/parsaHedayati/Turtle_controller/edit/master/README.md
+ ```bash
+git clone https://github.com/parsaHedayati/Turtle_controller/edit/master/README.md
 
 ```
-3. **Launch the TurtleSim Simulator:**
+2. **Launch the TurtleSim Simulator:**
 ```bash
 ros2 run turtlesim turtulesim_node
 
