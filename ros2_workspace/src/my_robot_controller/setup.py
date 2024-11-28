@@ -23,7 +23,8 @@ setup(
             "test_node = my_robot_controller.my_first_node:main",
             "circle_node = my_robot_controller.draw_circle:main",
             "pose_subscriber=my_robot_controller.pose_subscriber:main",
-            "turtle_controller =my_robot_controller.turtle_controller:main"
+            "turtle_controller =my_robot_controller.turtle_controller:main",
+            "turtle_fuzzy_controller = my_robot_controller.turtle_fuzzy_controller:main"
         ],
     },
 )
