@@ -1,0 +1,27 @@
+[1.720s] Invoking command in '/home/parsa/ros2_workspace/src/my_robot_controller': PYTHONPATH=/home/parsa/ros2_workspace/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/parsa/ros2_workspace/build/my_robot_controller/build install --record /home/parsa/ros2_workspace/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[2.899s] running egg_info
+[2.900s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[2.901s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[2.902s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[2.903s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[2.904s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[2.911s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[2.917s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[2.917s] running build
+[2.918s] running build_py
+[2.919s] copying my_robot_controller/turtle_controller.py -> /home/parsa/ros2_workspace/build/my_robot_controller/build/lib/my_robot_controller
+[2.919s] running install
+[2.920s] running install_lib
+[2.925s] copying /home/parsa/ros2_workspace/build/my_robot_controller/build/lib/my_robot_controller/turtle_controller.py -> /home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[2.926s] byte-compiling /home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/turtle_controller.py to turtle_controller.cpython-310.pyc
+[2.931s] running install_data
+[2.931s] running install_egg_info
+[2.938s] removing '/home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[2.939s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[2.945s] running install_scripts
+[3.039s] Installing circle_node script to /home/parsa/ros2_workspace/install/my_robot_controller/lib/my_robot_controller
+[3.040s] Installing pose_subscriber script to /home/parsa/ros2_workspace/install/my_robot_controller/lib/my_robot_controller
+[3.040s] Installing test_node script to /home/parsa/ros2_workspace/install/my_robot_controller/lib/my_robot_controller
+[3.042s] Installing turtle_controller script to /home/parsa/ros2_workspace/install/my_robot_controller/lib/my_robot_controller
+[3.045s] writing list of installed files to '/home/parsa/ros2_workspace/build/my_robot_controller/install.log'
+[3.148s] Invoked command in '/home/parsa/ros2_workspace/src/my_robot_controller' returned '0': PYTHONPATH=/home/parsa/ros2_workspace/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/parsa/ros2_workspace/build/my_robot_controller/build install --record /home/parsa/ros2_workspace/build/my_robot_controller/install.log --single-version-externally-managed install_data

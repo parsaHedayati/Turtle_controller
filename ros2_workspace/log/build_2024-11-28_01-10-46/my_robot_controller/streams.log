@@ -1,0 +1,29 @@
+[2.626s] Invoking command in '/home/parsa/ros2_workspace/src/my_robot_controller': PYTHONPATH=/home/parsa/ros2_workspace/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/parsa/ros2_workspace/build/my_robot_controller/build install --record /home/parsa/ros2_workspace/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[3.086s] running egg_info
+[3.086s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[3.086s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[3.087s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[3.087s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[3.087s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[3.092s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[3.094s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[3.094s] running build
+[3.094s] running build_py
+[3.119s] copying my_robot_controller/draw_circle.py -> /home/parsa/ros2_workspace/build/my_robot_controller/build/lib/my_robot_controller
+[3.120s] copying my_robot_controller/pose_subscriber.py -> /home/parsa/ros2_workspace/build/my_robot_controller/build/lib/my_robot_controller
+[3.120s] running install
+[3.121s] running install_lib
+[3.123s] copying /home/parsa/ros2_workspace/build/my_robot_controller/build/lib/my_robot_controller/draw_circle.py -> /home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[3.124s] copying /home/parsa/ros2_workspace/build/my_robot_controller/build/lib/my_robot_controller/pose_subscriber.py -> /home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[3.124s] byte-compiling /home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/draw_circle.py to draw_circle.cpython-310.pyc
+[3.124s] byte-compiling /home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/pose_subscriber.py to pose_subscriber.cpython-310.pyc
+[3.124s] running install_data
+[3.127s] running install_egg_info
+[3.130s] removing '/home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[3.132s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[3.149s] running install_scripts
+[3.183s] Installing circle_node script to /home/parsa/ros2_workspace/install/my_robot_controller/lib/my_robot_controller
+[3.184s] Installing pose_subscriber script to /home/parsa/ros2_workspace/install/my_robot_controller/lib/my_robot_controller
+[3.184s] Installing test_node script to /home/parsa/ros2_workspace/install/my_robot_controller/lib/my_robot_controller
+[3.185s] writing list of installed files to '/home/parsa/ros2_workspace/build/my_robot_controller/install.log'
+[3.243s] Invoked command in '/home/parsa/ros2_workspace/src/my_robot_controller' returned '0': PYTHONPATH=/home/parsa/ros2_workspace/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/parsa/ros2_workspace/build/my_robot_controller/build install --record /home/parsa/ros2_workspace/build/my_robot_controller/install.log --single-version-externally-managed install_data

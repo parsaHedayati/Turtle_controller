@@ -1,0 +1,23 @@
+[4.601s] Invoking command in '/home/parsa/ros2_workspace/src/my_robot_controller': PYTHONPATH=/home/parsa/ros2_workspace/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/parsa/ros2_workspace/build/my_robot_controller/build install --record /home/parsa/ros2_workspace/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[5.105s] running egg_info
+[5.105s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[5.107s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[5.108s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[5.108s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[5.109s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[5.114s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[5.147s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[5.147s] running build
+[5.147s] running build_py
+[5.150s] copying my_robot_controller/my_first_node.py -> /home/parsa/ros2_workspace/build/my_robot_controller/build/lib/my_robot_controller
+[5.150s] running install
+[5.150s] running install_lib
+[5.153s] copying /home/parsa/ros2_workspace/build/my_robot_controller/build/lib/my_robot_controller/my_first_node.py -> /home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[5.155s] byte-compiling /home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/my_first_node.py to my_first_node.cpython-310.pyc
+[5.156s] running install_data
+[5.159s] running install_egg_info
+[5.163s] removing '/home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[5.164s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[5.167s] running install_scripts
+[5.215s] writing list of installed files to '/home/parsa/ros2_workspace/build/my_robot_controller/install.log'
+[5.259s] Invoked command in '/home/parsa/ros2_workspace/src/my_robot_controller' returned '0': PYTHONPATH=/home/parsa/ros2_workspace/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/parsa/ros2_workspace/build/my_robot_controller/build install --record /home/parsa/ros2_workspace/build/my_robot_controller/install.log --single-version-externally-managed install_data

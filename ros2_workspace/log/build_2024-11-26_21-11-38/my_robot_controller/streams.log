@@ -1,0 +1,21 @@
+[1.377s] Invoking command in '/home/parsa/ros2_workspace/build/my_robot_controller': PYTHONPATH=/home/parsa/ros2_workspace/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/parsa/ros2_workspace/build/my_robot_controller/build --no-deps symlink_data --force
+[1.946s] running develop
+[1.966s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.967s]   warnings.warn(
+[2.305s] running egg_info
+[2.305s] writing my_robot_controller.egg-info/PKG-INFO
+[2.307s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[2.308s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[2.308s] writing requirements to my_robot_controller.egg-info/requires.txt
+[2.308s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[2.310s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[2.312s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[2.314s] running build_ext
+[2.316s] Creating /home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[2.317s] Installing test_node script to /home/parsa/ros2_workspace/install/my_robot_controller/lib/my_robot_controller
+[2.317s] 
+[2.317s] Installed /home/parsa/ros2_workspace/build/my_robot_controller
+[2.317s] running symlink_data
+[2.317s] symbolically linking /home/parsa/ros2_workspace/build/my_robot_controller/resource/my_robot_controller -> /home/parsa/ros2_workspace/install/my_robot_controller/share/ament_index/resource_index/packages
+[2.318s] symbolically linking /home/parsa/ros2_workspace/build/my_robot_controller/package.xml -> /home/parsa/ros2_workspace/install/my_robot_controller/share/my_robot_controller
+[2.382s] Invoked command in '/home/parsa/ros2_workspace/build/my_robot_controller' returned '0': PYTHONPATH=/home/parsa/ros2_workspace/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parsa/ros2_workspace/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/parsa/ros2_workspace/build/my_robot_controller/build --no-deps symlink_data --force
