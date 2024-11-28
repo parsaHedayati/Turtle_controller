@@ -32,7 +32,7 @@ pip install numpy scikit-fuzzy
 ros2 run turtlesim turtulesim_node
 
 ```
-3. ** run different nodes, for Example:
+3. **run different nodes, for Example:**
 ```bash
 ros2 run my_robot_controller fuzzy_controller
 
